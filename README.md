@@ -102,16 +102,32 @@ nemisa-codelab/
 
 ---
 
-## Technologies
+## Languages & Technologies
 
-The primary technology used in this repository is:
+### Programming Language
+
+The primary programming language used throughout this CodeLab is:
 
 - **Python**
-- Git
-- GitHub
-- VS Code / Python development environment
 
-As the portfolio develops, additional tools and technologies may be introduced where they support a project.
+### Development Tools
+
+The following tools are used to write, run, test, and document the code:
+
+- **Jupyter Notebook** — interactive Python programming, experimentation, and documenting practical exercises
+- **Visual Studio Code (VS Code)** — writing, editing, running, and managing Python projects
+- **Git** — version control and tracking changes
+- **GitHub** — repository hosting, project documentation, and portfolio development
+
+### Tools & Technologies
+
+| Tool / Technology  | Purpose                                                      |
+| ------------------ | ------------------------------------------------------------ |
+| Python             | Main programming language                                    |
+| Jupyter Notebook   | Interactive coding, experimentation, and practical exercises |
+| Visual Studio Code | Code development and project management                      |
+| Git                | Version control                                              |
+| GitHub             | Repository hosting and portfolio                             |
 
 ---
 
