@@ -236,7 +236,7 @@ Every practical is an opportunity to understand not only how to write code, but 
 
 ## Author
 
-**SK**
+**Samukelo Nkosi**
 
 ICT Student | Aspiring Software Developer
 
