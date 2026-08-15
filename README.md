@@ -2,9 +2,11 @@
 
 > A practical Python coding portfolio documenting my learning journey through the **NEMISA Bootcamp MicroCourse 1: Python Coding for Everyone!**
 
-[![Language](https://img.shields.io/badge/Language-Python-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![GitHub](https://img.shields.io/badge/Platform-GitHub-black?logo=github&logoColor=white)](https://github.com/)
-[![Learning](https://img.shields.io/badge/Focus-Python%20Programming-orange)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-Version%20Control-black?logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github&logoColor=white)](https://github.com/)
 
 ## About NEMISA CodeLab
 
