@@ -2,7 +2,10 @@
 # Write a program that asks for your favourite colour and age, 
 # then prints a message combining both inputs.
 
+print("-------------Hello!--------------")
 favourite_colour = input("What is your favorite colour? : ")
 age = input("Age: ")
+print("---------------------------------")
 
 print("Your favorite colour is " + favourite_colour + " and you are " + age + " years old! ")
+print("-------------GOOD BYE!--------------")
